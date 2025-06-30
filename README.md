@@ -26,16 +26,6 @@ This notebook performs the following tasks:
 
 ---
 
-## 🛠️ Requirements
-
-Make sure to install the following Python libraries:
-
-```bash
-pip install scanpy matplotlib seaborn scikit-learn
-
-</br>
----
-
 ## 📊 Marker Gene Expression by Cluster
 ![Average Marker Expression](images/corr.png)
 
@@ -58,3 +48,13 @@ pip install scanpy matplotlib seaborn scikit-learn
 
 ### Leiden Clustering
 ![Leiden Clusters](images/rnq6.png)
+
+
+---
+
+## 🛠️ Requirements
+
+Make sure to install the following Python libraries:
+
+```bash
+pip install scanpy matplotlib seaborn scikit-learn
